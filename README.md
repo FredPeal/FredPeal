@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Sales Assist**
 
+- 🐱‍💻 Team Lead and Backend Developer in [Transformando tu actitud](http://transformatuactitud.com/)
+
 - 🌱 I’m currently learning **Kubernets**
 
 - 👯 I’m looking to collaborate on [Kanvas](https://kanvas.dev/)
