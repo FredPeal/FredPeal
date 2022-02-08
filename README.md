@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredpeal&label=Profile%20views&color=0e75b6&style=flat" alt="fredpeal" /> </p>
 
-- 🔭 I’m currently working on **Sales Assist**
+- 🔭 I’m currently working on **McTekk SRL**
 
-- 🐱‍💻 Team Lead and Backend Developer in [Transformando tu actitud](http://transformatuactitud.com/)
+- 🐱‍💻 Previous Backend [Transformando tu actitud](http://transformatuactitud.com/)
 
 - 🌱 I’m currently learning **Kubernets**
 
